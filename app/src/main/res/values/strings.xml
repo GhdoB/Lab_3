@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="MC">MC</string>
+    <string name="MR">MR</string>
+    <string name="MS">MS</string>
+    <string name="Mplus">M+</string>
+    <string name="Mminus">M-</string>
+    <string name="CE">CE</string>
+    <string name="delete">DEL</string>
+    <string name="dot">.</string>
+    <string name="SqR">√</string>
+    <string name="n0">0</string>
+    <string name="n1">1</string>
+    <string name="n2">2</string>
+    <string name="n3">3</string>
+    <string name="n4">4</string>
+    <string name="n5">5</string>
+    <string name="n6">6</string>
+    <string name="n7">7</string>
+    <string name="n8">8</string>
+    <string name="n9">9</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Dalinti">/</string>
+    <string name="Multiply">*</string>
+    <string name="Eq">=</string>
+    <string name="etZero">0</string>
+    <string name="procent">%</string>
+    <string name="oneX">1/x</string>
+</resources>
