@@ -43,6 +43,8 @@
             android:textColor="#FFFFFF"
             android:background="@null"
             android:gravity="end"
+            android:focusable="false"
+            android:clickable="false"
             android:inputType="none"
             android:cursorVisible="false"
             android:maxLines="1" />
